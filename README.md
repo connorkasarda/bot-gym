@@ -16,6 +16,6 @@
 - [ ] Create scenes with tasks
 
 ## Learning
-- Check out *High-Performance Python* book and see if this proves that Python can be used over C++
-- Read *Make Your Own Neural Network* to learn about coding neural networks from scratch
-- If using C++, perhaps use Visual Studio instead of VS Code and learn how to use CMAKE for the time being
+- [ ] Read *High-Performance Python* book and see if this proves that Python can be used over C++
+- [ ] Read *Make Your Own Neural Network* to learn about coding neural networks from scratch
+- [ ] If using C++, perhaps use Visual Studio instead of VS Code and learn how to use CMAKE for the time being
