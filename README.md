@@ -3,16 +3,19 @@
 
 ## Milestones
 - [x] Choose programming language
-  - [x] Primary Language: ***C++***
+  - [x] Language: ***C++*** or ***Python***
     - [x] Physics
     - [x] Graphics
-  - [x] Secondary Language: ***Python***
-    - [x] AI & ML
+    - [x] AI & ML (TensorFlow? DIY?)
 - [x] Determine dimensionality: ***2D***
-- [ ] Establish Python/C++ embedding
 - [ ] Build graphics code
 - [ ] Construct a physics engine
 - [ ] Populate with virtual robots
   - [ ] soft robots
   - [ ] rigid robots
 - [ ] Create scenes with tasks
+
+## Learning
+- Check out *High-Performance Python* book and see if this proves that Python can be used over C++
+- Read *Make Your Own Neural Network* to learn about coding neural networks from scratch
+- If using C++, perhaps use Visual Studio instead of VS Code and learn how to use CMAKE for the time being
