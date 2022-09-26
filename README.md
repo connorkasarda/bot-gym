@@ -2,11 +2,11 @@
 ***End Goal:*** Emulates robots as a virtual entity within a virtual environment.  A physics engine will be created to aid the simulator, providing physical laws for the robots to follow.  Robots could be defined by a human or AI.  Additionally, the robots could be piloted by a human or AI.  Scenes could be created, testing the robots abilities to complete those tasks.
 
 ## Milestones
-- [x] Choose programming language
-  - [x] Language: ***C++*** or ***Python***
-    - [x] Physics
-    - [x] Graphics
-    - [x] AI & ML (TensorFlow? DIY?)
+- [x] Choose programming language and packages
+  - [x] Languages
+    - [x] ***Python***
+  - [x] Packages
+    - [x] ***Numba***
 - [x] Determine dimensionality: ***2D***
 - [ ] Build graphics code
 - [ ] Construct a physics engine
