@@ -7,8 +7,9 @@
     - [x] ***Python***
   - [x] Packages
     - [x] ***Numba***
+    - [x] ***PyOpenGL***
 - [x] Determine dimensionality: ***2D***
-- [ ] Build graphics code
+- [x] Play with OpenGL and get graphics code to work
 - [ ] Construct a physics engine
 - [ ] Populate with virtual robots
   - [ ] soft robots
