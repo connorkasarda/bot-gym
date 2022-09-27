@@ -9,9 +9,10 @@
     - [x] ***Numba***
     - [x] ***PyOpenGL***
 - [x] Determine dimensionality: ***2D***
+  - [ ] May consider ***3D*** in the future
 - [x] Play with OpenGL and get graphics code to work
 - [ ] Construct a physics engine
-- [ ] Populate with virtual robots
+- [ ] Design and populate with virtual robots
   - [ ] soft robots
   - [ ] rigid robots
 - [ ] Create scenes with tasks
