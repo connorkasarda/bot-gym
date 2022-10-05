@@ -1,10 +1,10 @@
-# Robot Gym: Robot Simulator
+# Robot Gym: Simulator
 ***End Goal:*** Emulates robots as a virtual entity within a virtual environment.  A physics engine will be created to aid the simulator, providing physical laws for the robots to follow.  Robots could be defined by a human or AI.  Additionally, the robots could be piloted by a human or AI.  Scenes could be created, testing the robots abilities to complete those tasks.
 
 ## Milestones
-- [ ] Play with OpenGL for graphics
+- [ ] Play with OpenGL and similar packages for graphics
 - [ ] Construct physics engine for environment conditions and virtual robot interactions
-- [ ] Try out AI and ML coding, as well as neural networks, for virtual robot behaviors
+- [ ] Try out AI and ML coding, as well as neural networks, for virtual robot behaviors and designs
 
 ## Learning
 - [ ] Read *High-Performance Python* book and see if this proves that Python can be used over C++
