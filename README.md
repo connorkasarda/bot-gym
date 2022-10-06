@@ -3,7 +3,9 @@
 
 ## Design Choices
 - [x] This project will be constructed using JavaScript, CSS, and HTML
-- [ ] Decide what functionalities are created from scratch or derived from libraries (ex: collision detection, neural networks, etc.)
+- [x] Decide what functionalities are created from scratch or derived from libraries (ex: collision detection, neural networks, etc.)
+  - [x] 3D Graphics: ***three.js***
+  - [x] Physics: ***ammo.js***
 
 ## Milestones
 - [ ] Create simple interface and graphics as a first step
