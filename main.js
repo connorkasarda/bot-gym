@@ -7,13 +7,25 @@ const renderer = new THREE.WebGLRenderer();
 // Sets the render size and add the renderer to HTML document
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
-// Adds red cube to the scene
-const geometry = new THREE.BoxGeometry(1, 1, 1);
-const material = new THREE.MeshBasicMaterial({color: 0xFF0000});
-const cube = new THREE.Mesh(geometry, material);
+// Adds yellow cube to the scene
+const cube_geometry = new THREE.BoxGeometry(1, 1, 1);
+const cube_material = new THREE.MeshBasicMaterial({color: 0xFFFF00});
+const cube = new THREE.Mesh(cube_geometry, cube_material);
 scene.add(cube);
+// Adds static (non-moving) blue lines to the scene
+const line_points = [];
+line_points.push(new THREE.Vector3(-2, 0, 0));
+line_points.push(new THREE.Vector3(0, 2, 0));
+line_points.push(new THREE.Vector3(2, 0, 0));
+line_points.push(new THREE.Vector3(0, -2, 0));
+line_points.push(new THREE.Vector3(-2, 0, 0));
+const line_geometry = new THREE.BufferGeometry().setFromPoints(line_points);
+const line_material = new THREE.LineBasicMaterial({color: 0x0000FF});
+const line = new THREE.Line(line_geometry, line_material);
+line.matrixAutoUpdate = false;
+scene.add(line);
 // Sets the camera position
-camera.position.z = 5;
+camera.position.set(0, 0, 10);
 // Creates animation loop function
 function animate() {
     // Updates animation for next repaint
