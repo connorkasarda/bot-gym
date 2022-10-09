@@ -9,7 +9,7 @@
 
 ## Milestones
 - [ ] Create simple interface and graphics as a first step
-- [ ] Construct physics engine for environment conditions and virtual robot interactions
+- [ ] Implement physics engine for environment conditions and virtual robot interactions
 - [ ] Try out AI and ML coding, as well as neural networks, for virtual robot behaviors and designs
 
 ## Learning
