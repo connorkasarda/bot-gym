@@ -8,7 +8,7 @@
   - [x] Physics: ***ammo.js***
 
 ## Milestones
-- [ ] Create simple interface and graphics as a first step
+- [x] Create simple interface and graphics as a first step
 - [ ] Implement physics engine for environment conditions and virtual robot interactions
 - [ ] Try out AI and ML coding, as well as neural networks, for virtual robot behaviors and designs
 
