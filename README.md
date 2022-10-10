@@ -1,20 +1,8 @@
-# Robot Gym: Simulator
-***End Goal:*** Simulates robots as a virtual entity within a virtual environment.  This is a **JavaScript**, **CSS**, and **HTML** project meant to be run in a web browser.  Robots could be defined by a human or AI.  Additionally, the robots could be piloted by a human or AI.  Scenes will be created by a human, testing the robots abilities to complete those tasks.
+# Robot Gym
+Fun testing environment for virtual, simulated robots
 
-## Design Choices
-- [x] This project will be constructed using JavaScript, CSS, and HTML
-- [x] Decide what functionalities are created from scratch or derived from libraries (ex: collision detection, neural networks, etc.)
-  - [x] 3D Graphics: ***three.js***
-  - [x] Physics: ***ammo.js***
-
-## Milestones
-- [x] Create simple interface and graphics as a first step
-- [ ] Implement physics engine for environment conditions and virtual robot interactions
-- [ ] Try out AI and ML coding, as well as neural networks, for virtual robot behaviors and designs
-
-## Learning
-- [ ] JavaScript
-- [ ] CSS
-- [ ] HTML
-- [ ] AI & ML
-- [ ] Physics & Math
+## Checkpoints
+- [ ] Robot has a simple cube appearance and is equipped with human controls so that puzzles are solved manually
+- [ ] Robot still composed of a simple cube but is now equipped with a "brain" so that puzzles are solved automatically
+- [ ] Robot gains a second "brain": the first "brain" controls the robot to solve puzzles while the second "brain" constructs robot with soft "voxel" units
+  - [ ] Soft-body dynamics calculations (pressure spring-mass system)

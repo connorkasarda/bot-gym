@@ -1,6 +1,5 @@
 // Import the THREE javascript file for 3D graphics
-import * as THREE from './lib/three.module.js';
-import * as AMMO from './lib/ammo.js';
+import * as THREE from './pkg/three.module.js';
 // Creates the scene, camera, and renderer
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
