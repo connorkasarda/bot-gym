@@ -6,3 +6,7 @@ Fun testing environment for virtual, simulated robots
 - [ ] Robot still composed of a simple cube but is now equipped with a "brain" so that puzzles are solved automatically
 - [ ] Robot gains a second "brain": the first "brain" controls the robot to solve puzzles while the second "brain" constructs robot with soft "voxel" units
   - [ ] Soft-body dynamics calculations (pressure spring-mass system)
+
+## Research
+- NEAT Algorithm
+- Soft Robots
