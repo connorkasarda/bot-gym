@@ -8,5 +8,6 @@ Fun testing environment for virtual, simulated robots
   - [ ] Soft-body dynamics calculations (pressure spring-mass system)
 
 ## Research
-- NEAT Algorithm
+- **NeuroEvolution (NE)**
+  - ex: NEAT Algorithm
 - Soft Robots
