@@ -1,0 +1,2 @@
+# Badges
+The robotics skill tree allows students to explore the potential of robots through engaging challenges and fun games.  Badges are ranked by difficulty to ensure a healthy progression towards robotics proficiency; just like a skill tree from a video game, the "player" will start with challenges rated low in complexity and continue working their way up to higher complexity.

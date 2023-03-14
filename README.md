@@ -1,13 +1,8 @@
 # Robot Gym
-Fun testing environment for virtual, simulated robots
+Fun space for exploring robotics through challenges and games
 
 ## Checkpoints
-- [ ] Robot has a simple cube appearance and is equipped with human controls so that puzzles are solved manually
-- [ ] Robot still composed of a simple cube but is now equipped with a "brain" so that puzzles are solved automatically
-- [ ] Robot gains a second "brain": the first "brain" controls the robot to solve puzzles while the second "brain" constructs robot with soft "voxel" units
-  - [ ] Soft-body dynamics calculations (pressure spring-mass system)
-
-## Research
-- **NeuroEvolution (NE)**
-  - ex: NEAT Algorithm
-- Soft Robots
+- [ ] Brainstorm initial badges that compose the **robotics skill tree** or **level up** system
+  - [ ] Beginner badges that expose the student to motors, sensors, and the computer
+  - [ ] Intermediate badges that combine the use of motors and sensors
+  - [ ] Expert badges that ask an objective, but allow for more creativity
