@@ -6,7 +6,7 @@ The curriculum utilizes a skill tree and badges, allowing students to explore th
 The level up system provides a sense of progression for the robotics student as they explore the plentiful world of robotics and programming.  Below is a list of the steps, or "levels", each student will take when enrolled in the robotics academy.
 
 ```
-INPUT:
+CODE:
 
 for index, level in enumerate(curriculum):
     print(index, '-->', level)
@@ -29,8 +29,10 @@ We explore each of these levels from the robotics curriculum in detail, revealin
 
 ## Demo: First Impression is Everything!
 
+With an exposure to pre-built and pre-programmed demo robots, students get to witness the amazing capabilities of robots and have their questions answered. Here are a few examples, among many...
+
 ```
-INPUT:
+CODE:
 
 for query in robot_questions:
     print(query)
@@ -43,5 +45,3 @@ What are robots?
 How do robots think?  
 What can I do with robots?  
 ```
-
-...
